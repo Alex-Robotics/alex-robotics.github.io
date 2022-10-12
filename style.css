@@ -1,0 +1,12 @@
+.ar-pp-header {
+    height: 7vh;
+    display: flex;
+    width: 217vh;
+    background-color: aqua;
+}
+
+.ar-title {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
