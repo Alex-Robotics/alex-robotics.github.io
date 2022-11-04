@@ -1,3 +1,0 @@
-# Alex Robotics
-
-En desarrollo...%
